@@ -1,0 +1,250 @@
+1_The Shawshank Redemption_1994
+2_The Godfather_1972
+3_The Dark Knight_2008
+4_The Godfather Part II_1974
+5_12 Angry Men_1957
+6_Schindler's List_1993
+7_The Lord of the Rings: The Return of the King_2003
+8_Pulp Fiction_1994
+9_The Lord of the Rings: The Fellowship of the Ring_2001
+10_The Good_the Bad and the Ugly_1966
+11_Spider-Man: Across the Spider-Verse_2023
+12_Forrest Gump_1994
+13_Fight Club_1999
+14_The Lord of the Rings: The Two Towers_2002
+15_Inception_2010
+16_Star Wars: Episode V - The Empire Strikes Back_1980
+17_The Matrix_1999
+18_Goodfellas_1990
+19_One Flew Over the Cuckoo's Nest_1975
+20_Se7en_1995
+21_It's a Wonderful Life_1946
+22_Seven Samurai_1954
+23_The Silence of the Lambs_1991
+24_Saving Private Ryan_1998
+25_City of God_2002
+26_Interstellar_2014
+27_Life Is Beautiful_1997
+28_The Green Mile_1999
+29_Star Wars: Episode IV - A New Hope_1977
+30_Terminator 2: Judgment Day_1991
+31_Back to the Future_1985
+32_Spirited Away_2001
+33_The Pianist_2002
+34_Psycho_1960
+35_Parasite_2019
+36_Léon: The Professional_1994
+37_The Lion King_1994
+38_Gladiator_2000
+39_American History X_1998
+40_The Departed_2006
+41_Whiplash_2014
+42_The Prestige_2006
+43_The Usual Suspects_1995
+44_Casablanca_1942
+45_Grave of the Fireflies_1988
+46_Harakiri_1962
+47_The Intouchables_2011
+48_Modern Times_1936
+49_Once Upon a Time in the West_1968
+50_Cinema Paradiso_1988
+51_Rear Window_1954
+52_Alien_1979
+53_City Lights_1931
+54_Apocalypse Now_1979
+55_Memento_2000
+56_Django Unchained_2012
+57_Indiana Jones and the Raiders of the Lost Ark_1981
+58_WALL·E_2008
+59_The Lives of Others_2006
+60_Sunset Blvd._1950
+61_Paths of Glory_1957
+62_Avengers: Infinity War_2018
+63_The Shining_1980
+64_The Great Dictator_1940
+65_Witness for the Prosecution_1957
+66_Spider-Man: Into the Spider-Verse_2018
+67_Aliens_1986
+68_American Beauty_1999
+69_The Dark Knight Rises_2012
+70_Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb_1964
+71_Inglourious Basterds_2009
+72_Oldboy_2003
+73_Coco_2017
+74_Amadeus_1984
+75_Toy Story_1995
+76_Braveheart_1995
+77_Das Boot_1981
+78_Joker_2019
+79_Avengers: Endgame_2019
+80_Princess Mononoke_1997
+81_Good Will Hunting_1997
+82_Once Upon a Time in America_1984
+83_Your Name._2016
+84_3 Idiots_2009
+85_Singin' in the Rain_1952
+86_High and Low_1963
+87_Requiem for a Dream_2000
+88_Capernaum_2018
+89_Toy Story 3_2010
+90_Star Wars: Episode VI - Return of the Jedi_1983
+91_Come and See_1985
+92_Eternal Sunshine of the Spotless Mind_2004
+93_2001: A Space Odyssey_1968
+94_The Hunt_2012
+95_Reservoir Dogs_1992
+96_Lawrence of Arabia_1962
+97_Citizen Kane_1941
+98_M_1931
+99_Ikiru_1952
+100_North by Northwest_1959
+101_The Apartment_1960
+102_Vertigo_1958
+103_Amélie_2001
+104_Double Indemnity_1944
+105_A Clockwork Orange_1971
+106_Full Metal Jacket_1987
+107_Hamilton_2020
+108_Scarface_1983
+109_Incendies_2010
+110_Heat_1995
+111_Up_2009
+112_To Kill a Mockingbird_1962
+113_The Sting_1973
+114_A Separation_2011
+115_Metropolis_1927
+116_L.A. Confidential_1997
+117_Die Hard_1988
+118_Indiana Jones and the Last Crusade_1989
+119_Snatch_2000
+120_Taxi Driver_1976
+121_Bicycle Thieves_1948
+122_Like Stars on Earth_2007
+123_1917_2019
+124_Dangal_2016
+125_Downfall_2004
+126_Top Gun: Maverick_2022
+127_For a Few Dollars More_1965
+128_Batman Begins_2005
+129_The Kid_1921
+130_Some Like It Hot_1959
+131_The Father_2020
+132_The Wolf of Wall Street_2013
+133_All About Eve_1950
+134_Green Book_2018
+135_Judgment at Nuremberg_1961
+136_Ran_1985
+137_The Truman Show_1998
+138_Casino_1995
+139_There Will Be Blood_2007
+140_Pan's Labyrinth_2006
+141_Unforgiven_1992
+142_Shutter Island_2010
+143_The Sixth Sense_1999
+144_Jurassic Park_1993
+145_A Beautiful Mind_2001
+146_Yojimbo_1961
+147_The Treasure of the Sierra Madre_1948
+148_Monty Python and the Holy Grail_1975
+149_No Country for Old Men_2007
+150_Kill Bill: Vol. 1_2003
+151_The Great Escape_1963
+152_Rashomon_1950
+153_The Thing_1982
+154_Finding Nemo_2003
+155_Spider-Man: No Way Home_2021
+156_The Elephant Man_1980
+157_Chinatown_1974
+158_Raging Bull_1980
+159_V for Vendetta_2005
+160_Gone with the Wind_1939
+161_Dial M for Murder_1954
+162_Inside Out_2015
+163_Lock,Stock and Two Smoking Barrels_1998
+164_Howl's Moving Castle_2004
+165_The Secret in Their Eyes_2009
+166_Guardians of the Galaxy Vol. 3_2023
+167_Three Billboards Outside Ebbing,Missouri_2017
+168_Prisoners_2013
+169_Trainspotting_1996
+170_The Bridge on the River Kwai_1957
+171_Fargo_1996
+172_Warrior_2011
+173_Gran Torino_2008
+174_Catch Me If You Can_2002
+175_My Neighbor Totoro_1988
+176_Million Dollar Baby_2004
+177_Children of Heaven_1997
+178_The Gold Rush_1925
+179_Blade Runner_1982
+180_Klaus_2019
+181_Harry Potter and the Deathly Hallows: Part 2_2011
+182_12 Years a Slave_2013
+183_Before Sunrise_1995
+184_The Grand Budapest Hotel_2014
+185_Ben-Hur_1959
+186_On the Waterfront_1954
+187_Gone Girl_2014
+188_Barry Lyndon_1975
+189_The General_1926
+190_Wild Strawberries_1957
+191_In the Name of the Father_1993
+192_The Deer Hunter_1978
+193_Hacksaw Ridge_2016
+194_The Third Man_1949
+195_The Wages of Fear_1953
+196_Memories of Murder_2003
+197_Sherlock Jr._1924
+198_Wild Tales_2014
+199_Mr. Smith Goes to Washington_1939
+200_Mad Max: Fury Road_2015
+201_Mary and Max_2009
+202_Dead Poets Society_1989
+203_How to Train Your Dragon_2010
+204_Monsters,Inc._2001
+205_The Seventh Seal_1957
+206_Jaws_1975
+207_Room_2015
+208_The Big Lebowski_1998
+209_Tokyo Story_1953
+210_Ford v Ferrari_2019
+211_The Passion of Joan of Arc_1928
+212_Hotel Rwanda_2004
+213_Rocky_1976
+214_Ratatouille_2007
+215_Platoon_1986
+216_Spotlight_2015
+217_Logan_2017
+218_The Terminator_1984
+219_Jai Bhim_2021
+220_Rush_2013
+221_Stand by Me_1986
+222_Before Sunset_2004
+223_Network_1976
+224_Into the Wild_2007
+225_The Wizard of Oz_1939
+226_The Best Years of Our Lives_1946
+227_The Exorcist_1973
+228_La haine_1995
+229_The Incredibles_2004
+230_To Be or Not to Be_1942
+231_Groundhog Day_1993
+232_Pirates of the Caribbean: The Curse of the Black Pearl_2003
+233_The Battle of Algiers_1966
+234_The Grapes of Wrath_1940
+235_My Father and My Son_2005
+236_Hachi: A Dog's Tale_2009
+237_Pather Panchali_1955
+238_The Handmaiden_2016
+239_Amores Perros_2000
+240_Rebecca_1940
+241_Cool Hand Luke_1967
+242_The Sound of Music_1965
+243_It Happened One Night_1934
+244_The 400 Blows_1959
+245_Persona_1966
+246_The Help_2011
+247_Life of Brian_1979
+248_The Iron Giant_1999
+249_Aladdin_1992
+250_Dances with Wolves_1990
